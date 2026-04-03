@@ -1,0 +1,277 @@
+[
+{
+"id": 1,
+"name": "Indian Institute of Technology (ISM) Dhanbad",
+"state": "Jharkhand",
+"city": "Dhanbad",
+"type": "Government",
+"affiliation": "Autonomous",
+"fees_range": "High",
+"annual_fees_inr": 230000,
+"branches": [
+{
+"name": "Computer Science and Engineering",
+"code": "CSE",
+"cutoffs": {
+"JEE_Main": { "General": 8000, "OBC": 12000, "SC": 25000, "ST": 35000, "EWS": 10000 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Electronics and Communication Engineering",
+"code": "ECE",
+"cutoffs": {
+"JEE_Main": { "General": 12000, "OBC": 18000, "SC": 40000, "ST": 60000, "EWS": 15000 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Mechanical Engineering",
+"code": "ME",
+"cutoffs": {
+"JEE_Main": { "General": 20000, "OBC": 30000, "SC": 60000, "ST": 90000, "EWS": 25000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Civil Engineering",
+"code": "CE",
+"cutoffs": {
+"JEE_Main": { "General": 25000, "OBC": 35000, "SC": 70000, "ST": 100000, "EWS": 30000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Electrical Engineering",
+"code": "EE",
+"cutoffs": {
+"JEE_Main": { "General": 18000, "OBC": 26000, "SC": 55000, "ST": 80000, "EWS": 22000 }
+},
+"min_class12_percentage": 70
+}
+],
+"nirf_ranking": 15,
+"website": "https://iitism.ac.in",
+"established": 1926
+},
+{
+"id": 2,
+"name": "National Institute of Technology Jamshedpur",
+"state": "Jharkhand",
+"city": "Jamshedpur",
+"type": "Government",
+"affiliation": "Autonomous",
+"fees_range": "Medium",
+"annual_fees_inr": 125000,
+"branches": [
+{
+"name": "Computer Science and Engineering",
+"code": "CSE",
+"cutoffs": {
+"JEE_Main": { "General": 25000, "OBC": 35000, "SC": 70000, "ST": 100000, "EWS": 30000 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Electronics and Communication Engineering",
+"code": "ECE",
+"cutoffs": {
+"JEE_Main": { "General": 32000, "OBC": 45000, "SC": 90000, "ST": 120000, "EWS": 38000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Mechanical Engineering",
+"code": "ME",
+"cutoffs": {
+"JEE_Main": { "General": 40000, "OBC": 55000, "SC": 110000, "ST": 150000, "EWS": 48000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Civil Engineering",
+"code": "CE",
+"cutoffs": {
+"JEE_Main": { "General": 50000, "OBC": 70000, "SC": 140000, "ST": 180000, "EWS": 60000 }
+},
+"min_class12_percentage": 65
+},
+{
+"name": "Electrical Engineering",
+"code": "EE",
+"cutoffs": {
+"JEE_Main": { "General": 35000, "OBC": 50000, "SC": 100000, "ST": 140000, "EWS": 42000 }
+},
+"min_class12_percentage": 70
+}
+],
+"nirf_ranking": 90,
+"website": "https://nitjsr.ac.in",
+"established": 1960
+},
+{
+"id": 3,
+"name": "Birla Institute of Technology Mesra",
+"state": "Jharkhand",
+"city": "Ranchi",
+"type": "Deemed",
+"affiliation": "Autonomous",
+"fees_range": "High",
+"annual_fees_inr": 280000,
+"branches": [
+{
+"name": "Computer Science and Engineering",
+"code": "CSE",
+"cutoffs": {
+"JEE_Main": { "General": 30000, "OBC": 42000, "SC": 80000, "ST": 120000, "EWS": 35000 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Information Technology",
+"code": "IT",
+"cutoffs": {
+"JEE_Main": { "General": 35000, "OBC": 48000, "SC": 90000, "ST": 130000, "EWS": 40000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Electronics and Communication Engineering",
+"code": "ECE",
+"cutoffs": {
+"JEE_Main": { "General": 45000, "OBC": 60000, "SC": 110000, "ST": 150000, "EWS": 52000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Mechanical Engineering",
+"code": "ME",
+"cutoffs": {
+"JEE_Main": { "General": 60000, "OBC": 80000, "SC": 150000, "ST": 200000, "EWS": 70000 }
+},
+"min_class12_percentage": 65
+},
+{
+"name": "Civil Engineering",
+"code": "CE",
+"cutoffs": {
+"JEE_Main": { "General": 70000, "OBC": 90000, "SC": 170000, "ST": 220000, "EWS": 80000 }
+},
+"min_class12_percentage": 65
+}
+],
+"nirf_ranking": 80,
+"website": "https://bitmesra.ac.in",
+"established": 1955
+},
+{
+"id": 4,
+"name": "Jadavpur University",
+"state": "West Bengal",
+"city": "Kolkata",
+"type": "Government",
+"affiliation": "Autonomous",
+"fees_range": "Low",
+"annual_fees_inr": 20000,
+"branches": [
+{
+"name": "Computer Science and Engineering",
+"code": "CSE",
+"cutoffs": {
+"WBJEE": { "General": 300, "OBC": 600, "SC": 2000, "ST": 3000, "EWS": 500 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Information Technology",
+"code": "IT",
+"cutoffs": {
+"WBJEE": { "General": 400, "OBC": 700, "SC": 2500, "ST": 3500, "EWS": 600 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Electronics and Communication Engineering",
+"code": "ECE",
+"cutoffs": {
+"WBJEE": { "General": 800, "OBC": 1200, "SC": 4000, "ST": 6000, "EWS": 1000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Mechanical Engineering",
+"code": "ME",
+"cutoffs": {
+"WBJEE": { "General": 1500, "OBC": 2500, "SC": 7000, "ST": 10000, "EWS": 2000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Civil Engineering",
+"code": "CE",
+"cutoffs": {
+"WBJEE": { "General": 2000, "OBC": 3000, "SC": 9000, "ST": 12000, "EWS": 2500 }
+},
+"min_class12_percentage": 65
+}
+],
+"nirf_ranking": 10,
+"website": "https://jaduniv.edu.in",
+"established": 1955
+},
+{
+"id": 5,
+"name": "National Institute of Technology Durgapur",
+"state": "West Bengal",
+"city": "Durgapur",
+"type": "Government",
+"affiliation": "Autonomous",
+"fees_range": "Medium",
+"annual_fees_inr": 125000,
+"branches": [
+{
+"name": "Computer Science and Engineering",
+"code": "CSE",
+"cutoffs": {
+"JEE_Main": { "General": 22000, "OBC": 32000, "SC": 65000, "ST": 95000, "EWS": 27000 }
+},
+"min_class12_percentage": 75
+},
+{
+"name": "Electronics and Communication Engineering",
+"code": "ECE",
+"cutoffs": {
+"JEE_Main": { "General": 30000, "OBC": 42000, "SC": 85000, "ST": 120000, "EWS": 35000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Mechanical Engineering",
+"code": "ME",
+"cutoffs": {
+"JEE_Main": { "General": 38000, "OBC": 52000, "SC": 100000, "ST": 140000, "EWS": 45000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Electrical Engineering",
+"code": "EE",
+"cutoffs": {
+"JEE_Main": { "General": 35000, "OBC": 48000, "SC": 95000, "ST": 130000, "EWS": 42000 }
+},
+"min_class12_percentage": 70
+},
+{
+"name": "Civil Engineering",
+"code": "CE",
+"cutoffs": {
+"JEE_Main": { "General": 45000, "OBC": 60000, "SC": 120000, "ST": 160000, "EWS": 52000 }
+},
+"min_class12_percentage": 65
+}
+],
+"nirf_ranking": 70,
+"website": "https://nitdgp.ac.in",
+"established": 1960
+}
+]
